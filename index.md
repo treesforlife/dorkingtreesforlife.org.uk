@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 # Join Our Mailing List
 
 <!-- Begin Mailchimp Signup Form -->
