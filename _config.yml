@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Dorking Trees For Life
 description: Community tree planting campaign working together to enhance the beauty and ecological resilience of our local environment.
