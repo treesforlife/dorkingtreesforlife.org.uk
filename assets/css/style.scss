@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url('/images/bg.jpg');
+  background-image: url('/images/background.jpg');
+  padding: 2rem;
 }
