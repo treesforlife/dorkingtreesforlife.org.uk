@@ -3,8 +3,6 @@ title: Dorking Trees For Life
 description: Community tree planting campaign working together to enhance the beauty and ecological resilience of our local environment.
 ---
 
-# Join Our Mailing List
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -15,7 +13,7 @@ description: Community tree planting campaign working together to enhance the be
 <div id="mc_embed_signup">
 <form action="https://dorkingtreesforlife.us5.list-manage.com/subscribe/post?u=982203b33264df1af1b5a47ad&amp;id=da2b5d920b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <h2>Subscribe</h2>
+  <h2>Join Our Mailing List</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
   <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
