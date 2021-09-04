@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Join Our Mailing List
 ---
 
