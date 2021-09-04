@@ -1,6 +1,6 @@
 ---
 title: Dorking Trees For Life
-description: Community tree planting campaign working together to enhance the beauty and ecological resilience of our local environment.
+description: Local tree planting campaign working with the community to enhance the beauty and resilience of our natural environment.
 ---
 
 <!-- Begin Mailchimp Signup Form -->
