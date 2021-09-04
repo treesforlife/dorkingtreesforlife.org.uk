@@ -1,5 +1,6 @@
 ---
-title: Join Our Mailing List
+title: Dorking Trees For Life
+description: Join Our Mailing List
 ---
 
 <!-- Begin Mailchimp Signup Form -->
